@@ -58,6 +58,7 @@ This repository is available under the
 Data available since: UD v2.7
 License: CC0 1.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction
 Lemmas: not available
 UPOS: manual native
